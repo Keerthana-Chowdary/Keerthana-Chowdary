@@ -24,13 +24,30 @@
 
 ###
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" height="180"/>
+<img align="right" src="https://i.imgflip.com/65efzo.gif" height="250"/>
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,flask,nodejs,mongodb,mysql,php,flutter&perline=6"/>
+<p>
+  <b>🎨 Frontend:&nbsp;</b>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter&perline=5"/>
 </p>
+
+<p>
+  <b>⚙️ Backend:&nbsp;&nbsp;</b>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,php&perline=5"/>
+</p>
+
+<p>
+  <b>💻 Programming:&nbsp;</b>
+  <img src="https://skillicons.dev/icons?i=python&perline=5"/>
+</p>
+
+<p>
+  <b>🗄️ Database:&nbsp;&nbsp;</b>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=5"/>
+</p>
+
 
 ---
 
