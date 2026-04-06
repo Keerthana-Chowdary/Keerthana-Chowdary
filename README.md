@@ -20,52 +20,36 @@
   </tr>
 </table>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-</div>
+<img align="right" src="https://i.imgflip.com/65efzo.gif" height="180"/>
 
-###
+### 🛠️ Tech Stack
 
-<div align="left">
-  <a href="pentyalakeerthana091@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,flask,nodejs,mongodb,mysql,php,flutter&perline=6"/>
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p>
+  <a href="mailto:pentyalakeerthana091@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/keerthana-pentyala-57609a274⁠" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/keerthana-pentyala-57609a274">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
 
-###
+  <img align="right" src="https://komarev.com/ghpvc/?username=Keerthana-Chowdary&style=for-the-badge&color=blue"/>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keerthana-Chowdary.Keerthana-Chowdary&"  />
-</div>
+---
+
 
 ###
 
@@ -75,6 +59,7 @@
 
 ###
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthana-Chowdary/Keerthana-Chowdary/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthana-Chowdary/Keerthana-Chowdary/output/pacman-contribution-graph.svg">
@@ -82,3 +67,23 @@
 </picture>
 
 ###
+
+---
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-%F0%9F%99%8F-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<div align="center">
+  <em>📍 From Andhra Pradesh with ❤️ | Open to collaborations 🚀</em>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Keerthana-Chowdary">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
