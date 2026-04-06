@@ -2,8 +2,11 @@ name: Update GitHub Readme Stats
 
 on:
   schedule:
-    - cron: '0 3 * * *'      # Runs daily at 3 AM UTC
-  workflow_dispatch:         # Allows manual run
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-stats:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Create profile directory
         run: mkdir -p profile
@@ -19,17 +24,17 @@ jobs:
       - name: Generate GitHub Stats Card (SVG)
         run: |
           curl -o profile/stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=Keerthana-Chowdary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+            "https://github-readme-stats.vercel.app/api?username=Keerthana-Chowdary&theme=dracula"
 
       - name: Generate Top Languages Card (SVG)
         run: |
           curl -o profile/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs?username=Keerthana-Chowdary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+            "https://github-readme-stats.vercel.app/api/top-langs?username=Keerthana-Chowdary&layout=compact&theme=dracula"
 
       - name: Commit and push updated stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README stats cards [skip ci]" || exit 0
-          git push
+          git diff --quiet || git commit -m "Update README stats cards [skip ci]"
+          git push origin main
