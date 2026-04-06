@@ -1,84 +1,70 @@
-<!-- ================== HEADER ================== -->
+<h2 align="center">Hi 👋! My name is Keerthana and I'm an aspiring software developer from Andhra Pradesh, India.</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=200&section=header&text=Keerthana&fontSize=40&fontColor=ffffff" />
-
-<!-- ================== TYPING ================== -->
+###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Web+Developer;Tech+Enthusiast" />
+  <img src="https://streak-stats.demolab.com?user=Keerthana-Chowdary&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
----
+###
 
-<h2 align="center">Hi 👋! I'm Keerthana</h2>
-<h4 align="center">From Andhra Pradesh, India 🇮🇳</h4>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
-
-<!-- ================== STATS ================== -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keerthana-Chowdary&show_icons=true&theme=radical&hide_border=true" height="150" />
-  
-  <img src="https://streak-stats.demolab.com?user=Keerthana-Chowdary&theme=radical&hide_border=true" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-Chowdary&layout=compact&theme=radical&hide_border=true" height="150" />
-</div>
-
----
-
-<!-- ================== TROPHIES ================== -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Keerthana-Chowdary&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-<!-- ================== GIF ================== -->
-
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" />
-
----
-
-### 🛠️ Tech Stack
+###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,flask,nodejs,mongodb,mysql,php,flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
----
-
-### 📬 Connect With Me
+###
 
 <div align="left">
-  <a href="mailto:pentyalakeerthana091@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="pentyalakeerthana091@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  
-  <a href="https://www.linkedin.com/in/keerthana-pentyala-57609a274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/keerthana-pentyala-57609a274⁠" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
----
-
-### 👀 Profile Views
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keerthana-Chowdary&style=for-the-badge&color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keerthana-Chowdary.Keerthana-Chowdary&"  />
 </div>
 
----
+###
 
-<!-- ================== SNAKE ================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-Chowdary&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-### 🐍 Contribution Graph
+###
 
-<img src="https://raw.githubusercontent.com/Keerthana-Chowdary/Keerthana-Chowdary/output/pacman-contribution-graph.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthana-Chowdary/Keerthana-Chowdary/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthana-Chowdary/Keerthana-Chowdary/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Keerthana-Chowdary/Keerthana-Chowdary/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-<!-- ================== FOOTER ================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=120&section=footer"/>
+###
