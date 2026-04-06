@@ -1,10 +1,24 @@
-<h2 align="center">Hi 👋! My name is Keerthana and I'm an aspiring software developer from Andhra Pradesh, India.</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20👋%20I'm-Keerthana-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aspiring-Software%20Developer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh,%20India-green?style=for-the-badge" />
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Keerthana-Chowdary&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keerthana-Chowdary&show_icons=true&theme=dracula&hide_border=true" height="150" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Keerthana-Chowdary&theme=dracula&hide_border=true" height="150" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keerthana-Chowdary&layout=compact&theme=dracula&hide_border=true" height="150" />
+    </td>
+  </tr>
+</table>
 
 ###
 
